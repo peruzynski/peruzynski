@@ -41,7 +41,7 @@ I am a certified Terraform and AWS Solution Architect DevOps Engineer with a pas
 
 ## 💬 Quote
 
-*"I am an ambitious individual who does not reject but embraces challenges."*
+*"We do not do it because it's easy. We do it because we thought it would be easy""*
 
 ---
 
