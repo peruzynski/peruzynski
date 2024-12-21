@@ -22,9 +22,7 @@ I am a certified Terraform and AWS Solution Architect DevOps Engineer with a pas
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=peruzynski&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peruzynski&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=peruzynski&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peruzynski&layout=compact&theme=radical)
 
 ## 💬 Quote
 
