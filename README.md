@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Peruzynski!
 
 I am a certified Terraform and AWS Solution Architect DevOps Engineer with a passion for cloud infrastructure and networking. With **two years of experience as a DevOps Engineer** out of **four years in the IT field**, I have successfully transitioned into a DevOps role driven by my enthusiasm for learning and growth.
 
@@ -30,14 +30,14 @@ I am a certified Terraform and AWS Solution Architect DevOps Engineer with a pas
 
 ## 🌍 Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartekperuzynski/)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bartekperuzynski@gmail.com)
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=peruzynski&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peruzynski&layout=compact&theme=radical)
 
 ## 💬 Quote
 
