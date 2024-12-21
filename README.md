@@ -29,7 +29,3 @@ I am a certified Terraform and AWS Solution Architect DevOps Engineer with a pas
 ## 💬 Quote
 
 *"We do not do it because it's easy. We do it because we thought it would be easy""*
-
----
-
-Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on exciting projects!
