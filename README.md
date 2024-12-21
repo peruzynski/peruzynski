@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]!
 
-<!--
-**peruzynski/peruzynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a certified Terraform and AWS Solution Architect DevOps Engineer with a passion for cloud infrastructure and networking. With **two years of experience as a DevOps Engineer** out of **four years in the IT field**, I have successfully transitioned into a DevOps role driven by my enthusiasm for learning and growth.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **🔧 Tools & Technologies:** AWS, Terraform, Linux, Docker, Python, Git, GitHub Actions.
+- **💡 Passion:** I am always curious and eager to learn about new tools and solutions. 
+- **🌱 Learning:** I spend my free time expanding my knowledge and skills.
+- **🤝 Collaboration:** I thrive on the opportunity to learn and collaborate with my team.
+- **💬 Communication:** Confident in my exceptional communication skills.
+
+## 🌟 My Skills
+
+- **Cloud Platforms:** 
+  - ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- **Infrastructure as Code:** 
+  - ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+- **Operating Systems:** 
+  - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- **Containers:** 
+  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- **Programming Languages:** 
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **Version Control:** 
+  - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- **CI/CD:** 
+  - ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+## 🌍 Connect with Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+## 💬 Quote
+
+*"I am an ambitious individual who does not reject but embraces challenges."*
+
+---
+
+Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on exciting projects!
