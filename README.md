@@ -12,7 +12,7 @@ I am a certified Terraform and AWS Solution Architect DevOps Engineer with a pas
 
 ## 🌟 My Skills
 
-![Amazon Web Services (AWS)](https://img.shields.io/badge/Amazon_Web_Services_(AWS)-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-772953?style=for-the-badge&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
