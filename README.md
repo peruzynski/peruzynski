@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Peruzynski!
 
-I am a certified Terraform and AWS DevOps Engineer with a strong passion for cloud infrastructure and automation.With 4 years of experience in the IT field, including 3 years focused on DevOps, I have successfully transitioned into this role driven by continuous learning, curiosity, and a commitment to building reliable, scalable solutions in the cloud.
+I am a certified Terraform and AWS DevOps Engineer with a strong passion for cloud infrastructure and automation. With 4 years of experience in the IT field, including 3 years focused on DevOps, I have successfully transitioned into this role driven by continuous learning, curiosity, and a commitment to building reliable, scalable solutions in the cloud.
 
 
 ## 🚀 About Me
